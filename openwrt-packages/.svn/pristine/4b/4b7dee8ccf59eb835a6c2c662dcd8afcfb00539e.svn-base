@@ -1,3 +1,0 @@
-config php7-fastcgi
-	option enabled 0
-	option port '1026'
