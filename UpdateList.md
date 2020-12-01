@@ -1,4 +1,3 @@
-UpdateList.diff
 adguardhome
 cpulimit
 cpulimit-ng
