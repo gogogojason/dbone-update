@@ -1284,7 +1284,7 @@ div > .table > .tr,.cbi-map >.cbi-section .cbi-value {
 
 table > tbody > tr:nth-of-type(4n+2),
 div > .table > .tr:nth-of-type(4n+2),.cbi-map >.cbi-section .cbi-value:nth-of-type(2n) {
-	background-color: #e5effd;
+	background-color: #f8fbfe;
 }
 
 table > tbody > tr:nth-of-type(4n+2):hover,
@@ -1294,7 +1294,7 @@ div > .table > .tr:nth-of-type(4n+2):hover {
 
 table > tbody > tr:nth-of-type(4n),
 div > .table > .tr:nth-of-type(4n) {
-	background-color: rgba(223, 56, 18, 0.04);
+	background-color: rgba(223, 56, 18, 0.02);
 }
 
 table > tbody > tr:nth-of-type(4n):hover,
@@ -1303,11 +1303,11 @@ div > .table > .tr:nth-of-type(4n):hover {
 }
 
 .cbi-map >.cbi-section .cbi-value:nth-of-type(2n) {
-	background-color: #e5effdb8;
+	background-color: #f8fbfeb8;
 }
 
 .cbi-map >.cbi-section .cbi-value:nth-of-type(2n):hover {
-	background-color: #e5effd;
+	background-color: #f8fbfe;
 }
 
 /* fix multiple table */
