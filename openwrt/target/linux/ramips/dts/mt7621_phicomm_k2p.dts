@@ -1,7 +1,0 @@
-/dts-v1/;
-
-#include "mt7621_phicomm_k2p_default.dtsi"
-
-&firmware {
-	reg = <0xa0000 0xf60000>;
-};
